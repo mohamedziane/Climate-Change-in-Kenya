@@ -84,7 +84,7 @@ The figure above displays the top 12 list containing the old vs.new variables af
 A total of 72 different features were initially sourced as possible causes and 26 were retained as possibly most significant.
 
 <p align="center">
-  <img width="1000" height="500" src="https://raw.githubusercontent.com/mohamedziane/Climate-Change-in-Kenya/main/images/FIG3.png">
+  <img width="1000" height="700" src="https://raw.githubusercontent.com/mohamedziane/Climate-Change-in-Kenya/main/images/FIG3.png">
 </p>
 
 The figure above shows the Python output of the 26 possible related causes of climate change in Nairobi (Kenya). The additional column “timestamp” is the time-series column dating from 1985 to 2019. There are 12540 rows of datasets as they are daily records sourced from the World Bank and the Humanitarian Data Exchange.
@@ -101,7 +101,7 @@ The merged table was also filtered to only contain data ranging from 1985/31/12 
 The temperature variation above 1985 to 2019 is consistent throughout the three cities (North to South). However, temperature variation is very hard to extract an obvious trend as temperature varies throughout seasons. Can we identify which other factors may have had a more significant increase from 1985 to 2019? The remaining of the project fosuced only on Nairobi, Kenya.
 
 <p align="center">
-  <img width="1000" height="500" src="https://raw.githubusercontent.com/mohamedziane/Climate-Change-in-Kenya/main/images/FIG5.png">
+  <img width="1000" height="700" src="https://raw.githubusercontent.com/mohamedziane/Climate-Change-in-Kenya/main/images/FIG5.png">
 </p>
 
 **Top 10 Climate-related causes and consequences in Nairobi. Kenya from 1985 to 2019**
@@ -114,8 +114,8 @@ The top three possible causes and consequences that saw the biggest increase fro
 - The precipitation seems to go hand in hand with the CO2 emissions and foreign direct investments
 
 <p align="center">
-  <img width="1000" height="500" src="https://raw.githubusercontent.com/mohamedziane/Climate-Change-in-Kenya/main/images/FIG7.png">
-  <img width="1000" height="500" src="https://raw.githubusercontent.com/mohamedziane/Climate-Change-in-Kenya/main/images/FIG8.png">
+  <img width="1000" height="700" src="https://raw.githubusercontent.com/mohamedziane/Climate-Change-in-Kenya/main/images/FIG7.png">
+  <img width="1000" height="700" src="https://raw.githubusercontent.com/mohamedziane/Climate-Change-in-Kenya/main/images/FIG8.png">
 </p>
 
 **Correlation Matrix to identify global relationship trends between all those parameters**
@@ -130,7 +130,7 @@ older kids?
 - Precipitation seems to be related to Ores & metal exports, agricultural land, CO2 emissions, foreign direct investments, Methane & Nitrous Oxide emissions, population in urban agglomerations, the total population, the total cloud cover and the soil moisture.
 
 <p align="center">
-  <img width="600" height="300" src="https://raw.githubusercontent.com/mohamedziane/Climate-Change-in-Kenya/main/images/FIG9.png">
+  <img width="1000" height="700" src="https://raw.githubusercontent.com/mohamedziane/Climate-Change-in-Kenya/main/images/FIG9.png">
 </p>
 
 
@@ -145,7 +145,7 @@ With the field of machine learning, there are two main types of tasks: supervise
 **Data Input for Predictions using Ordinary Least Squares (OLS)**
 
 <p align="center">
-  <img width="1000" height="500" src="https://desktop.arcgis.com/en/arcmap/10.3/tools/spatial-statistics-toolbox/GUID-8278E3D7-7E53-4DEF-B0B8-8BE33F969BEA-web.png>
+  <img width="1000" height="500" src="https://desktop.arcgis.com/en/arcmap/10.3/tools/spatial-statistics-toolbox/GUID-8278E3D7-7E53-4DEF-B0B8-8BE33F969BEA-web.png">
 </p>
 
 
