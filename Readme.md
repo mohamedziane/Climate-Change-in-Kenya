@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="600" height="300" src="INSERT GENERAL PIC KENYA">
+  <img width="600" height="300" src="https://raw.githubusercontent.com/mohamedziane/Climate-Change-in-Kenya/main/images/GeneralPicKenya.png">
 </p>
 
 ## 1. Introduction
