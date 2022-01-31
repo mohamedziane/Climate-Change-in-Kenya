@@ -130,7 +130,7 @@ older kids?
 - Precipitation seems to be related to Ores & metal exports, agricultural land, CO2 emissions, foreign direct investments, Methane & Nitrous Oxide emissions, population in urban agglomerations, the total population, the total cloud cover and the soil moisture.
 
 <p align="center">
-  <img width="1000" height="900" src="https://raw.githubusercontent.com/mohamedziane/Climate-Change-in-Kenya/main/images/FIG9.png">
+  <img width="1000" height="1000" src="https://raw.githubusercontent.com/mohamedziane/Climate-Change-in-Kenya/main/images/FIG9.png">
 </p>
 
 
@@ -167,7 +167,7 @@ The OLS, is a type of linear least squares method for estimating the unknown par
 For a very simple model such as OLS, the accuracy results does not seem too bad, but after several iterations, the score seemed to still hover around a 61% accuracy. 
 
 <p align="center">
-  <img width="1000" height="1000" src="https://raw.githubusercontent.com/mohamedziane/Climate-Change-in-Kenya/main/images/FIG11.png">
+  <img width="1000" height="800" src="https://raw.githubusercontent.com/mohamedziane/Climate-Change-in-Kenya/main/images/FIG11.png">
 </p>
 
 **Random Regressor with Random Forest**
@@ -179,7 +179,7 @@ For a very simple model such as OLS, the accuracy results does not seem too bad,
 A model that can work very well in a lot of cases is the Random Forest. For regression, this is provided by Sklearn’s RandomForestRegressor class. A pipeline was designed to assess the performance using cross-validation. The latter was performing the fitting as part of the process. I first used the default settings for the random forest and then went on to investigate some different hyperparameters. The cross validation mean absolute error for the Temperature and the Precipitation were: 0.84 Deg F and 0.03 in respectively. Similarly, the mean absolute error for both variables were lower from the Random Forest than from the Linear Regression results
 
 <p align="center">
-  <img width="1000" height="800" src="https://raw.githubusercontent.com/mohamedziane/Climate-Change-in-Kenya/main/images/FIG12.png">
+  <img width="1000" height="1300" src="https://raw.githubusercontent.com/mohamedziane/Climate-Change-in-Kenya/main/images/FIG12.png">
   <img width="1000" height="800" src="https://raw.githubusercontent.com/mohamedziane/Climate-Change-in-Kenya/main/images/3aFIG12.png">
   <img width="1000" height="800" src="https://raw.githubusercontent.com/mohamedziane/Climate-Change-in-Kenya/main/images/3bFIG12.png">
 </p>
