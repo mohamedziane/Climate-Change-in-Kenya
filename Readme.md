@@ -26,7 +26,9 @@ The six steps that this project followed are:
 **Data Sources**
 
 <p align="center">
-  <img width="600" height="300" src="INSERT SOURCES NAME PICS LOGO">
+  <img width="600" height="300" src="https://static.meteoblue.com/assets/images/logo/launcher-icon-4x.png">
+  <img width="600" height="300" src="https://library.stlawu.edu/sites/default/files/2020-04/worldbank.png">
+  <img width="600" height="300" src="https://data.humdata.org/images/hxl_fb-01.png">
 </p>
 
 
