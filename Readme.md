@@ -27,7 +27,7 @@ The six steps that this project followed are:
 
 <p align="center">
   <img width="400" height="300" src="https://static.meteoblue.com/assets/images/logo/launcher-icon-4x.png">
-  <img width="400" height="300" src="https://library.stlawu.edu/sites/default/files/2020-04/worldbank.png">
+  <img width="400" height="300" src="https://ceowatermandate.org/wp-content/uploads/2019/04/World-bank-logo-1.jpg">
   <img width="400" height="300" src="https://data.humdata.org/images/hxl_fb-01.png">
 </p>
 
